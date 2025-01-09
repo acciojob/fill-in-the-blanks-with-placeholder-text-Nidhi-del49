@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+/* Your CSS Code here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #007bff;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-top: 10px;
+}
